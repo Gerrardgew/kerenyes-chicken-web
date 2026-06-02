@@ -1,0 +1,8 @@
+{
+  "name": "KerenYES Friend Chicken",
+  "description": "Website resmi KerenYES Friend Chicken - Menu, Partnership, dan Pesan via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
